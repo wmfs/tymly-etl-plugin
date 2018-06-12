@@ -1,6 +1,6 @@
 /* eslint-env mocha */
 'use strict'
-const tymly = require('tymly')
+const tymly = require('@wmfs/tymly')
 const path = require('path')
 const expect = require('chai').expect
 const glob = require('glob')
@@ -20,7 +20,7 @@ describe('CSV and tymly test', function () {
       {
         pluginPaths: [
           path.resolve(__dirname, './../lib'),
-          path.resolve(__dirname, '../node_modules/tymly-test-helpers/plugins/allow-everything-rbac-plugin')
+          path.resolve(__dirname, '../node_modules/@wmfs/tymly-test-helpers/plugins/allow-everything-rbac-plugin')
         ],
         blueprintPaths: [
           path.resolve(__dirname, './fixtures/people/blueprints/people-blueprint')

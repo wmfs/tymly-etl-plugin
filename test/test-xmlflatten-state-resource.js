@@ -4,7 +4,7 @@ process.on('unhandledRejection', (reason, p) => {
   // application specific logging, throwing an error, or other logic here
 })
 
-const tymly = require('tymly')
+const tymly = require('@wmfs/tymly')
 const path = require('path')
 const fs = require('fs')
 const expect = require('chai').expect
@@ -83,7 +83,7 @@ describe('xmlFlatten State Resource', function () {
         {
           pluginPaths: [
             path.resolve(__dirname, './../lib'),
-            path.resolve(__dirname, '../node_modules/tymly-test-helpers/plugins/allow-everything-rbac-plugin')
+            path.resolve(__dirname, '../node_modules/@wmfs/tymly-test-helpers/plugins/allow-everything-rbac-plugin')
           ],
           blueprintPaths: [
             path.resolve(fixture, 'blueprints', 'xmlflatten-blueprint')

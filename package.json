@@ -1,35 +1,58 @@
 {
-  "name": "tymly-etl-plugin",
+  "name": "@wmfs/tymly-etl-plugin",
+  "version": "0.0.0-semantically-released",
   "description": "A collection of states for helping with Extract, Transform and Load tasks.",
-  "version": "0.0.8",
-  "author": "Aron Moore",
+  "homepage": "https://github.com/wmfs/tymly-etl-plugin#readme",
+  "author": "West Midlands Fire Service",
+  "keywords": [
+    "tymly",
+    "plugin",
+    "extract",
+    "transform",
+    "load",
+    "tasks"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wmfs/tymly-etl-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wmfs/tymly-etl-plugin/issues"
+  },
   "main": "./lib/index.js",
   "dependencies": {
     "boom": "7.2.0",
     "debug": "3.1.0",
     "glob": "7.1.2",
-    "smithereens": "^0.0.9",
-    "tymly": "^0.0.17",
-    "xml-flatten2csv": "^0.0.2",
-    "xml2csv": "^1.0.2"
+    "@wmfs/tymly": "1.0.1",
+    "@wmfs/smithereens": "1.0.0",
+    "@wmfs/xml-flatten2csv": "1.0.0",
+    "@wmfs/xml2csv": "1.0.0"
   },
   "devDependencies": {
     "chai": "4.1.2",
+    "codecov": "3.0.2",
     "csvtojson": "2.0.3",
+    "cz-conventional-changelog": "2.1.0",
     "mocha": "5.2.0",
+    "nyc": "12.0.2",
+    "semantic-release": "^15.5.2",
     "standard": "11.0.1",
-    "tymly-test-helpers": "0.0.1"
+    "@wmfs/tymly-test-helpers": "1.0.0"
   },
   "scripts": {
     "lint": "standard",
-    "test": "standard && mocha"
+    "test": "nyc mocha && standard",
+    "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/wmfs/tymly"
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   },
-  "bugs": {
-    "url": "https://github.com/wmfs/tymly/issues"
+  "publishConfig": {
+    "access": "public"
   }
 }
