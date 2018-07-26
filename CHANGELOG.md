@@ -1,3 +1,11 @@
+# [1.12.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.11.0...v1.12.0) (2018-07-26)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/tymly requirement to 1.12.0 ([d579bab](https://github.com/wmfs/tymly-etl-plugin/commit/d579bab))
+* **deps-dev:** update csvtojson requirement to 2.0.7 ([afee990](https://github.com/wmfs/tymly-etl-plugin/commit/afee990))
+
 # [1.11.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.10.0...v1.11.0) (2018-07-19)
 
 
