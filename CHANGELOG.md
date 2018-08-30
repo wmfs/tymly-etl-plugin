@@ -1,3 +1,12 @@
+# [1.27.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.26.0...v1.27.0) (2018-08-30)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/smithereens requirement from 1.4.0 to 1.5.0 ([d2ba42e](https://github.com/wmfs/tymly-etl-plugin/commit/d2ba42e))
+* **deps-dev:** update nyc requirement from 12.0.2 to 13.0.1 ([de8e63d](https://github.com/wmfs/tymly-etl-plugin/commit/de8e63d))
+* **deps-dev:** update semantic-release requirement from 15.9.11 to 15.9.12 ([c8f57bc](https://github.com/wmfs/tymly-etl-plugin/commit/c8f57bc))
+
 # [1.26.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.25.0...v1.26.0) (2018-08-27)
 
 
