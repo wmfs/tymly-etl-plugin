@@ -30,8 +30,8 @@ describe('xmlFlatten State Resource', function () {
 
   function verifyOutput (outputFile, done) {
     try {
-      const output = fs.readFileSync(outputFile, {encoding: 'utf8'}).split('\n')
-      const expected = fs.readFileSync(expectedFile, {encoding: 'utf8'}).split('\n')
+      const output = fs.readFileSync(outputFile, { encoding: 'utf8' }).split('\n')
+      const expected = fs.readFileSync(expectedFile, { encoding: 'utf8' }).split('\n')
 
       expect(output).to.eql(expected)
     } catch (err) {
@@ -49,8 +49,8 @@ describe('xmlFlatten State Resource', function () {
         headerMap: [
           ['$.Title', 'title', 'string'],
           ['@.Name', 'name', 'string'],
-          [{'test': '@.Age<=16', 'value': 'yes'}, 'child', 'string'],
-          [{'test': '@.Age>16', 'select': '@.Age'}, 'age', 'integer']
+          [{ 'test': '@.Age<=16', 'value': 'yes' }, 'child', 'string'],
+          [{ 'test': '@.Age>16', 'select': '@.Age' }, 'age', 'integer']
         ]
       },
       null,
