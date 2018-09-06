@@ -1,3 +1,12 @@
+# [1.31.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.30.0...v1.31.0) (2018-09-06)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.21.0 to 1.22.0 ([66fd70f](https://github.com/wmfs/tymly-etl-plugin/commit/66fd70f))
+* **deps-dev:** update codecov requirement from 3.0.4 to 3.1.0 ([529641c](https://github.com/wmfs/tymly-etl-plugin/commit/529641c))
+* **dev-deps:** move to standard 12.0.1 ([18f4c2d](https://github.com/wmfs/tymly-etl-plugin/commit/18f4c2d))
+
 # [1.30.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.29.0...v1.30.0) (2018-09-04)
 
 
