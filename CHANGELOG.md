@@ -1,3 +1,10 @@
+# [1.46.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.45.0...v1.46.0) (2018-09-11)
+
+
+### 🛠 Builds
+
+* **deps:** update debug requirement from 4.0.0 to 4.0.1 ([285dfcc](https://github.com/wmfs/tymly-etl-plugin/commit/285dfcc))
+
 # [1.45.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.44.0...v1.45.0) (2018-09-11)
 
 
