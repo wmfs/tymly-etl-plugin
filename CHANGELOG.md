@@ -1,3 +1,10 @@
+# [1.38.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.37.0...v1.38.0) (2018-09-11)
+
+
+### 🛠 Builds
+
+* **deps:** update debug requirement from 3.1.0 to 3.2.1 ([f810cf2](https://github.com/wmfs/tymly-etl-plugin/commit/f810cf2))
+
 # [1.37.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.36.0...v1.37.0) (2018-09-11)
 
 
