@@ -23,7 +23,7 @@
   "main": "./lib/index.js",
   "dependencies": {
     "boom": "7.2.0",
-    "debug": "3.2.2",
+    "debug": "3.2.3",
     "glob": "7.1.3",
     "@wmfs/tymly": "1.26.1",
     "@wmfs/smithereens": "1.7.0",
