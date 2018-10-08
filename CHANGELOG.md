@@ -1,3 +1,10 @@
+# [1.67.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.66.0...v1.67.0) (2018-10-08)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/xml2csv requirement from 1.7.0 to 1.8.0 ([abda681](https://github.com/wmfs/tymly-etl-plugin/commit/abda681))
+
 # [1.66.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.65.0...v1.66.0) (2018-10-08)
 
 
