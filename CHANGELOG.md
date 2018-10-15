@@ -1,3 +1,11 @@
+# [1.73.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.72.0...v1.73.0) (2018-10-15)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.47.0 to 1.48.0 ([cb27ca4](https://github.com/wmfs/tymly-etl-plugin/commit/cb27ca4))
+* **deps-dev:** update nyc requirement from 13.0.1 to 13.1.0 ([3f51dfd](https://github.com/wmfs/tymly-etl-plugin/commit/3f51dfd))
+
 # [1.72.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.71.0...v1.72.0) (2018-10-12)
 
 
