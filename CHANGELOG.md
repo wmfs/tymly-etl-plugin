@@ -1,3 +1,10 @@
+# [1.89.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.88.0...v1.89.0) (2018-11-01)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/smithereens requirement from 1.13.0 to 1.14.0 ([d3c2fb9](https://github.com/wmfs/tymly-etl-plugin/commit/d3c2fb9))
+
 # [1.88.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.87.0...v1.88.0) (2018-11-01)
 
 
