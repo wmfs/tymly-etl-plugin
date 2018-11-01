@@ -1,3 +1,10 @@
+# [1.88.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.87.0...v1.88.0) (2018-11-01)
+
+
+### 🛠 Builds
+
+* **deps:** update boom requirement from 7.2.0 to 7.2.1 ([504b6ca](https://github.com/wmfs/tymly-etl-plugin/commit/504b6ca))
+
 # [1.87.0](https://github.com/wmfs/tymly-etl-plugin.git/compare/v1.86.0...v1.87.0) (2018-10-31)
 
 
