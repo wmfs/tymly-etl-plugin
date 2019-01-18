@@ -1,0 +1,38 @@
+{
+  "FlattenXmlFiles": {
+    "Type": "Task",
+    "InputPath": "$.streets",
+    "Resource": "module:flattenXmlFiles",
+    "ResourceConfig": {
+      "rootXMLElement": "Street",
+      "pivotPath": "$..StreetDescriptiveIdentifier",
+      "headerMap": [
+        ["$.usrn", "usrn", "number"],
+        ["$.changeType", "changeType", "string"],
+        ["$.state", "state", "number"],
+        ["$.stateDate", "state_date", "date"],
+        ["@.streetDescription.en", "description", "string"],
+        ["@.locality.en", "locality","string"],
+        ["@.townName.en", "town_name", "string"],
+        ["@.administrativeArea.en", "administrative_area","string"],
+        ["$.streetSurface", "surface", "number"],
+        ["$.streetClassification", "classification", "number"],
+        [{"select": "$.streetStart.Point.pos", "transform":"ordnanceSurvey_eastingCoord"}, "start_x", "number"],
+        [{"select": "$.streetStart.Point.pos", "transform":"ordnanceSurvey_northingCoord"}, "start_y", "number"],
+        [{"select": "$.streetEnd.Point.pos", "transform":"ordnanceSurvey_eastingCoord"}, "end_x", "number"],
+        [{"select": "$.streetEnd.Point.pos", "transform":"ordnanceSurvey_northingCoord"}, "end_y", "number"],
+        [{"select": "$.streetStartLatLong.Point.pos", "transform":"ordnanceSurvey_latitudeCoord"}, "start_latitude", "number"],
+        [{"select": "$.streetStartLatLong.Point.pos", "transform":"ordnanceSurvey_longitudeCoord"}, "start_longitude", "number"],
+        [{"select": "$.streetEndLatLong.Point.pos", "transform":"ordnanceSurvey_latitudeCoord"}, "end_latitude", "number"],
+        [{"select": "$.streetEndLatLong.Point.pos", "transform":"ordnanceSurvey_longitudeCoord"}, "end_longitude", "number"],
+        ["$.startDate", "start_date", "date"],
+        ["$.lastUpdateDate", "last_update_date", "date"],
+        ["$.entryDate", "entry_date", "date"]
+
+      ],
+      "namespace": "strip",
+      "xmllang": "wrap"
+    },
+    "End": true
+  }
+}
