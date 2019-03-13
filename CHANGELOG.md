@@ -1,3 +1,10 @@
+# [1.104.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.103.0...v1.104.0) (2019-03-13)
+
+
+### ✨ Features
+
+* **deps:** Pull in xml-flatten2csv 1.2.0 to add required field feature. ([08c7422](https://github.com/wmfs/tymly-etl-plugin/commit/08c7422))
+
 # [1.103.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.102.0...v1.103.0) (2019-02-08)
 
 
