@@ -1,3 +1,17 @@
+# [1.107.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.106.0...v1.107.0) (2019-07-02)
+
+
+### 🛠 Builds
+
+* **deps:** Update glob requirement from 7.1.3 to 7.1.4 ([de9afdb](https://github.com/wmfs/tymly-etl-plugin/commit/de9afdb))
+* **deps-dev:** Update mocha requirement from 5.2.0 to 6.1.4 ([a24e1c3](https://github.com/wmfs/tymly-etl-plugin/commit/a24e1c3))
+* **deps-dev:** Update nyc requirement from 13.2.0 to 14.1.1 ([9802358](https://github.com/wmfs/tymly-etl-plugin/commit/9802358))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** Update CircleCI config - Travis migration ([eb570a5](https://github.com/wmfs/tymly-etl-plugin/commit/eb570a5))
+
 # [1.106.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.105.0...v1.106.0) (2019-07-02)
 
 
