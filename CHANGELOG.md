@@ -1,3 +1,20 @@
+# [1.108.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.107.0...v1.108.0) (2019-09-09)
+
+
+### 🛠 Builds
+
+* **deps:** Update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.94.1 to 1.98.0 ([df4fcb5](https://github.com/wmfs/tymly-etl-plugin/commit/df4fcb5))
+
+
+### 📚 Documentation
+
+* add circleci status [skip ci] ([bac201c](https://github.com/wmfs/tymly-etl-plugin/commit/bac201c))
+
+
+### ⚙️ Continuous Integrations
+
+* **travis:** remove Travis config ([af91bdb](https://github.com/wmfs/tymly-etl-plugin/commit/af91bdb))
+
 # [1.107.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.106.0...v1.107.0) (2019-07-02)
 
 
