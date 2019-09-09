@@ -1,3 +1,10 @@
+# [1.110.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.109.0...v1.110.0) (2019-09-09)
+
+
+### 🛠 Builds
+
+* **deps:** Update [@wmfs](https://github.com/wmfs)/xml-flatten2csv requirement ([d2b5c23](https://github.com/wmfs/tymly-etl-plugin/commit/d2b5c23))
+
 # [1.109.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.108.0...v1.109.0) (2019-09-09)
 
 
