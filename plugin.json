@@ -1,0 +1,13 @@
+{
+  "name": "etl",
+  "version": "1.110.0",
+  "label": "Extract, Transform and Load",
+  "author": "Tim Needham",
+  "organisation": "West Midlands Fire Service",
+  "description": "Tymly plugin to help with Extract, Transform and Load tasks",
+  "categories": [
+    "extract",
+    "transform",
+    "load"
+  ]
+}
