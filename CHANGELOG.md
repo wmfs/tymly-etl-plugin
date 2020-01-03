@@ -1,3 +1,25 @@
+# [1.111.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.110.0...v1.111.0) (2020-01-03)
+
+
+### 🛠 Builds
+
+* **deps:** Bump [@wmfs](https://github.com/wmfs)/smithereens from 1.22.0 to 1.23.0 ([9e48683](https://github.com/wmfs/tymly-etl-plugin/commit/9e48683c18d87f44356e51005e78e4c61633dbbb))
+* **deps-dev:** add [@semantic-release](https://github.com/semantic-release)/exec ([ea366d4](https://github.com/wmfs/tymly-etl-plugin/commit/ea366d414c5fff89fd2721e5d2fd03e711505ab7))
+* **deps-dev:** bump packages ([95df017](https://github.com/wmfs/tymly-etl-plugin/commit/95df01772f41ff1c77871726c7bf6f5b427ad0f4))
+* **deps-dev:** update dev dependancies ([defc62a](https://github.com/wmfs/tymly-etl-plugin/commit/defc62a75a5e1c2a857d56487464b17dc16501a1))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** update config ([7a826f6](https://github.com/wmfs/tymly-etl-plugin/commit/7a826f6183aeee29490729b2270fbe71e4c024a9))
+
+
+### ♻️ Chores
+
+* add plugin.json ([4af7f5e](https://github.com/wmfs/tymly-etl-plugin/commit/4af7f5ecc2c4ab372da2e4df890293afc115e156))
+* add version_plugin script ([69f044a](https://github.com/wmfs/tymly-etl-plugin/commit/69f044a5e9a83f6b207f6606ce3fbe020975a376))
+* update .releaserc.json ([7ae3289](https://github.com/wmfs/tymly-etl-plugin/commit/7ae3289271bb9334c4e3cd4db841382a62be549e))
+
 # [1.110.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.109.0...v1.110.0) (2019-09-09)
 
 
