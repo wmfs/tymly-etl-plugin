@@ -1,3 +1,11 @@
+# [1.112.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.111.0...v1.112.0) (2020-01-07)
+
+
+### 🛠 Builds
+
+* **deps:** Bump [@wmfs](https://github.com/wmfs)/smithereens from 1.23.0 to 1.24.0 ([8076283](https://github.com/wmfs/tymly-etl-plugin/commit/8076283c2494e87508e15532e3194d85bda9ff7b))
+* **deps-dev:** Bump mocha from 6.2.2 to 7.0.0 ([1316779](https://github.com/wmfs/tymly-etl-plugin/commit/1316779252db2022137a28e5477550f17107db35))
+
 # [1.111.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.110.0...v1.111.0) (2020-01-03)
 
 
