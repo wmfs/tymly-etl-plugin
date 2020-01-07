@@ -1,3 +1,10 @@
+# [1.113.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.112.0...v1.113.0) (2020-01-07)
+
+
+### 🛠 Builds
+
+* **deps:** Bump glob from 7.1.4 to 7.1.6 ([d6bef20](https://github.com/wmfs/tymly-etl-plugin/commit/d6bef2058389daff3bc7220a7a429ca73c2dcba7))
+
 # [1.112.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.111.0...v1.112.0) (2020-01-07)
 
 
