@@ -68,7 +68,7 @@ describe('CSV and tymly test', function () {
   })
 
   it('should check delete files have been split correctly', function (done) {
-    let csvDeletesPath = path.resolve(fixture, 'output', 'delete', 'people.csv')
+    const csvDeletesPath = path.resolve(fixture, 'output', 'delete', 'people.csv')
     csv()
       .fromFile(csvDeletesPath)
       .on('json', function (json) {
@@ -81,7 +81,7 @@ describe('CSV and tymly test', function () {
   })
 
   it('should check upserts files have been split correctly', function (done) {
-    let csvUpsertsPath = path.resolve(fixture, 'output', 'upserts', 'people.csv')
+    const csvUpsertsPath = path.resolve(fixture, 'output', 'upserts', 'people.csv')
     csv()
       .fromFile(csvUpsertsPath)
       .on('json', function (json) {
