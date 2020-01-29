@@ -1,3 +1,11 @@
+# [1.124.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.123.0...v1.124.0) (2020-01-29)
+
+
+### 🛠 Builds
+
+* **deps:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.117.0 to 1.118.0 ([37dbe7f](https://github.com/wmfs/tymly-etl-plugin/commit/37dbe7fe96aeaea2d1dc547f645fbcf105dfe859))
+* **deps-dev:** Bump cz-conventional-changelog from 3.0.2 to 3.1.0 ([a02836a](https://github.com/wmfs/tymly-etl-plugin/commit/a02836a5ca675bc4df2c722498c0d015fbaceb46))
+
 # [1.123.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.122.0...v1.123.0) (2020-01-28)
 
 
