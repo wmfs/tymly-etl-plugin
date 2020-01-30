@@ -1,3 +1,10 @@
+# [1.125.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.124.0...v1.125.0) (2020-01-30)
+
+
+### 🛠 Builds
+
+* **deps:** Bump [@wmfs](https://github.com/wmfs)/xml2csv from 1.13.0 to 1.14.0 ([1a94cb9](https://github.com/wmfs/tymly-etl-plugin/commit/1a94cb91edea4dc762eff71ba689d7a34eadc229))
+
 # [1.124.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.123.0...v1.124.0) (2020-01-29)
 
 
