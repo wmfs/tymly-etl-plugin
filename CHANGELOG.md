@@ -1,3 +1,12 @@
+# [1.126.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.125.0...v1.126.0) (2020-02-02)
+
+
+### 🛠 Builds
+
+* **deps:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.118.0 to 1.119.0 ([657b6fb](https://github.com/wmfs/tymly-etl-plugin/commit/657b6fb7ad74f4455de112a471daad7683b68519))
+* **deps-dev:** Bump codecov from 3.6.2 to 3.6.3 ([eef0026](https://github.com/wmfs/tymly-etl-plugin/commit/eef00265a233ce7d8d5e2fe6c5b219c3fa95a3f3))
+* **deps-dev:** Bump codecov from 3.6.3 to 3.6.4 ([b6e78e8](https://github.com/wmfs/tymly-etl-plugin/commit/b6e78e86a54e411cd760ed3a616134024d6321a9))
+
 # [1.125.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.124.0...v1.125.0) (2020-01-30)
 
 
