@@ -1,3 +1,14 @@
+# [1.127.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.126.0...v1.127.0) (2020-02-14)
+
+
+### 🛠 Builds
+
+* **deps:** Bump [@wmfs](https://github.com/wmfs)/smithereens from 1.28.0 to 1.29.0 ([d783773](https://github.com/wmfs/tymly-etl-plugin/commit/d7837737b75e88edc4f9f80f76db4d4e11d83579))
+* **deps-dev:** Bump [@semantic-release](https://github.com/semantic-release)/exec from 3.3.8 to 5.0.0 ([2f5bdab](https://github.com/wmfs/tymly-etl-plugin/commit/2f5bdabbc656cb6213c380ef133cf76b3813b646))
+* **deps-dev:** Bump [@semantic-release](https://github.com/semantic-release)/git from 7.0.18 to 9.0.0 ([9801b68](https://github.com/wmfs/tymly-etl-plugin/commit/9801b68483da6da375d01d8ff9c61474b178dab0))
+* **deps-dev:** Bump codecov from 3.6.4 to 3.6.5 ([2413930](https://github.com/wmfs/tymly-etl-plugin/commit/24139308e684923290cebae977da86723f7d94a0))
+* **deps-dev:** Bump semantic-release from 15.14.0 to 17.0.3 ([bfc6699](https://github.com/wmfs/tymly-etl-plugin/commit/bfc6699623510d192613f72029d468ac867fbda4))
+
 # [1.126.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.125.0...v1.126.0) (2020-02-02)
 
 
