@@ -1,3 +1,11 @@
+# [1.128.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.127.0...v1.128.0) (2020-02-26)
+
+
+### 🛠 Builds
+
+* **deps:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.119.0 to 1.120.0 ([06aef03](https://github.com/wmfs/tymly-etl-plugin/commit/06aef037d0cd866ab04958809efc6aa427527542))
+* **deps-dev:** Bump semantic-release from 17.0.3 to 17.0.4 ([7cd91de](https://github.com/wmfs/tymly-etl-plugin/commit/7cd91dec11836dca6650505b25c9bc789b6a464e))
+
 # [1.127.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.126.0...v1.127.0) (2020-02-14)
 
 
