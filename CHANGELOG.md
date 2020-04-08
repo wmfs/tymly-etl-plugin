@@ -1,3 +1,13 @@
+# [1.135.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.134.0...v1.135.0) (2020-04-08)
+
+
+### 🛠 Builds
+
+* **deps:** Bump [@wmfs](https://github.com/wmfs)/xml2csv from 1.14.0 to 1.15.0 ([7c8333e](https://github.com/wmfs/tymly-etl-plugin/commit/7c8333ee8a144710d5e513e95295820f5b75fbe6))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.130.0 to 1.131.0 ([468f493](https://github.com/wmfs/tymly-etl-plugin/commit/468f49339bf6dbe9670cd45cd4aa5f605142a036))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.131.0 to 1.135.0 ([d6072e2](https://github.com/wmfs/tymly-etl-plugin/commit/d6072e2463cc88f7fcb30cb4f434b0291ea67c6a))
+* **deps-dev:** Bump nyc from 15.0.0 to 15.0.1 ([345d219](https://github.com/wmfs/tymly-etl-plugin/commit/345d21948640d8d5fd45b33566baed7a2a586ba7))
+
 # [1.134.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.133.0...v1.134.0) (2020-04-02)
 
 
