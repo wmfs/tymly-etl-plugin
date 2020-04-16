@@ -42,7 +42,7 @@ describe('xmlFlatten State Resource', function () {
 
   describe('state resource', () => {
     const flattener = new FlattenXmlFiles()
-    it('initialise flattenXml state resource', (done) => {
+    it('initialise flattenXml state resource', () => {
       flattener.init({
         rootXMLElement: 'Episode',
         pivotPath: '$.People.Person',
@@ -53,8 +53,8 @@ describe('xmlFlatten State Resource', function () {
           [{ test: '@.Age>16', select: '@.Age' }, 'age', 'integer']
         ]
       },
-      null,
-      done)
+      null
+      )
     })
 
     it('run flattenXml state resource', (done) => {
