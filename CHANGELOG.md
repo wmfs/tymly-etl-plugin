@@ -1,3 +1,20 @@
+## [1.135.1](https://github.com/wmfs/tymly-etl-plugin/compare/v1.135.0...v1.135.1) (2020-04-16)
+
+
+### 🐛 Bug Fixes
+
+* **state-resources:** Remove redundant callback parameter from init ([77bf39d](https://github.com/wmfs/tymly-etl-plugin/commit/77bf39de75cf2c6b5dd35ef7a45aa7186cad7c33))
+
+
+### 🛠 Builds
+
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.135.0 to 1.135.1 ([95a1b77](https://github.com/wmfs/tymly-etl-plugin/commit/95a1b77b28fe39f6f90437ab3f0aa1186acedbab))
+
+
+### 📦 Code Refactoring
+
+* **state-resource:** Switch from callback to promise interface ([56a1e4e](https://github.com/wmfs/tymly-etl-plugin/commit/56a1e4e495d7bc6ae3bb94dc1edc5897ae713fe9))
+
 # [1.135.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.134.0...v1.135.0) (2020-04-08)
 
 
