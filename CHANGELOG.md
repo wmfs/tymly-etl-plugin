@@ -1,3 +1,18 @@
+# [1.136.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.135.1...v1.136.0) (2020-04-22)
+
+
+### 🛠 Builds
+
+* **deps:** Remove unused boom dependency ([5280e94](https://github.com/wmfs/tymly-etl-plugin/commit/5280e94a203eaebf3e03c1f8a1533cf9b169eb79))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.135.1 to 1.135.2 ([f7959cc](https://github.com/wmfs/tymly-etl-plugin/commit/f7959ccae90eee4155e8f739e4c78e4d072b2ad3))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.135.2 to 1.136.0 ([a7684c2](https://github.com/wmfs/tymly-etl-plugin/commit/a7684c242ac3f9d7b8c7720cc929b2a555a1779a))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.136.0 to 1.137.0 ([8f434b9](https://github.com/wmfs/tymly-etl-plugin/commit/8f434b9d278af6f1a43502fbaf185e6da8a31a08))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly-test-helpers from 1.4.0 to 1.4.1 ([ff27afe](https://github.com/wmfs/tymly-etl-plugin/commit/ff27afefd2e89eada8f8dbda24036472bc0b3553))
+* **deps-dev:** Bump semantic-release from 17.0.4 to 17.0.5 ([ccb0b90](https://github.com/wmfs/tymly-etl-plugin/commit/ccb0b90f6a803db2cdb0a7639e747fec6e924e56))
+* **deps-dev:** Bump semantic-release from 17.0.5 to 17.0.6 ([82cd932](https://github.com/wmfs/tymly-etl-plugin/commit/82cd9322cb71b25345d28cb46dde260607d06c5c))
+* **deps-dev:** Bump semantic-release from 17.0.6 to 17.0.7 ([4b70fad](https://github.com/wmfs/tymly-etl-plugin/commit/4b70fadeaec339e4514953283ec36dec58347e19))
+* **dev-deps:** glob is a dev-dep not a dep ([a601f4a](https://github.com/wmfs/tymly-etl-plugin/commit/a601f4a3b335232e116a4c957080c664bf7db0f2))
+
 ## [1.135.1](https://github.com/wmfs/tymly-etl-plugin/compare/v1.135.0...v1.135.1) (2020-04-16)
 
 
