@@ -22,7 +22,6 @@
   },
   "main": "./lib/index.js",
   "dependencies": {
-    "boom": "7.3.0",
     "debug": "4.1.1",
     "glob": "7.1.6",
     "@wmfs/smithereens": "1.36.0",
