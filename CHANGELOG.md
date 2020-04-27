@@ -1,3 +1,21 @@
+# [1.137.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.136.0...v1.137.0) (2020-04-27)
+
+
+### 🐛 Bug Fixes
+
+* smithereens interface now returns a promise, doesn't take a callback ([87e0272](https://github.com/wmfs/tymly-etl-plugin/commit/87e027236e1099e3e27d0f31435f2ef39356c1bc))
+
+
+### 🛠 Builds
+
+* **deps:** Bump [@wmfs](https://github.com/wmfs)/smithereens from 1.36.0 to 1.38.0 ([01d95a7](https://github.com/wmfs/tymly-etl-plugin/commit/01d95a73015279b17701881d7a962f6247128222))
+* **deps-dev:** Bump mocha from 7.1.1 to 7.1.2 ([50288ae](https://github.com/wmfs/tymly-etl-plugin/commit/50288ae1a18b4979cba57b4b665f81b34c4223fd))
+
+
+### 💎 Styles
+
+* Lint fix ([ce68b33](https://github.com/wmfs/tymly-etl-plugin/commit/ce68b33d8181927fa1ef5a32ba19c900ec9b63d7))
+
 # [1.136.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.135.1...v1.136.0) (2020-04-22)
 
 
