@@ -78,8 +78,8 @@ describe('xmlFlatten State Resource', function () {
     let tymlyService
     let statebox
 
-    it('start Tymly service', (done) => {
-      tymly.boot(
+    it('start Tymly service', async () => {
+      const tymlyServices = await tymly.boot(
         {
           pluginPaths: [
             path.resolve(__dirname, './../lib'),
@@ -88,14 +88,11 @@ describe('xmlFlatten State Resource', function () {
           blueprintPaths: [
             path.resolve(fixture, 'blueprints', 'xmlflatten-blueprint')
           ]
-        },
-        (err, tymlyServices) => {
-          if (err) return done(err)
-          tymlyService = tymlyServices.tymly
-          statebox = tymlyServices.statebox
-          done()
         }
       )
+
+      tymlyService = tymlyServices.tymly
+      statebox = tymlyServices.statebox
     })
 
     it('run the execution to process the XML file', async () => {
