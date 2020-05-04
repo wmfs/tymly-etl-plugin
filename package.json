@@ -32,7 +32,7 @@
     "codecov": "3.6.5",
     "conventional-changelog-metahub": "4.0.1",
     "csvtojson": "2.0.10",
-    "cz-conventional-changelog": "3.1.0",
+    "cz-conventional-changelog": "3.2.0",
     "glob": "7.1.6",
     "mocha": "7.1.2",
     "nyc": "15.0.1",
