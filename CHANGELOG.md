@@ -1,3 +1,30 @@
+# [1.138.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.137.0...v1.138.0) (2020-06-01)
+
+
+### 🛠 Builds
+
+* **deps:** Bump [@wmfs](https://github.com/wmfs)/smithereens from 1.38.0 to 1.40.0 ([ccc764e](https://github.com/wmfs/tymly-etl-plugin/commit/ccc764ece661897f08f25f4f17a57d449fe711c7))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.137.0 to 1.137.1 ([8fbac3a](https://github.com/wmfs/tymly-etl-plugin/commit/8fbac3aee8a057719a34b82cefad8f86182757d1))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.137.1 to 1.137.2 ([7cc1ff5](https://github.com/wmfs/tymly-etl-plugin/commit/7cc1ff5a5feb560d8eb9d8cb8a4333b3a049adb6))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.137.2 to 1.137.3 ([64635e4](https://github.com/wmfs/tymly-etl-plugin/commit/64635e4c402cc8f0d22892e2849cb47913a7f90d))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.137.3 to 1.138.0 ([e875201](https://github.com/wmfs/tymly-etl-plugin/commit/e875201cbfd07452c30c958bc5fda6ac0994f5c4))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.138.0 to 1.140.0 ([69a1613](https://github.com/wmfs/tymly-etl-plugin/commit/69a161336a52ed261c3c8d4b0e9065bb48278f43))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.140.0 to 1.141.0 ([f62cb0e](https://github.com/wmfs/tymly-etl-plugin/commit/f62cb0e295256983394376156b8ed172c55b101a))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.141.0 to 1.142.0 ([cdf478b](https://github.com/wmfs/tymly-etl-plugin/commit/cdf478b77f60347965a21eac1859fa5ee52e6b9d))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.142.0 to 1.143.0 ([54a11c4](https://github.com/wmfs/tymly-etl-plugin/commit/54a11c4164898266103efd23960ef0a0cd81209e))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly-test-helpers from 1.4.1 to 1.4.2 ([d13798b](https://github.com/wmfs/tymly-etl-plugin/commit/d13798b3affa6f08a038fd27e57df2ad6c914b14))
+* **deps-dev:** Bump codecov from 3.6.5 to 3.7.0 ([d9c0c02](https://github.com/wmfs/tymly-etl-plugin/commit/d9c0c026e6c89cf355691bd428ad5ce130ce6ac6))
+* **deps-dev:** Bump cz-conventional-changelog from 3.1.0 to 3.2.0 ([67282a3](https://github.com/wmfs/tymly-etl-plugin/commit/67282a38e9f022f8fb800035a324e5b0c528a4d6))
+* **deps-dev:** Bump mocha from 7.1.2 to 7.2.0 ([6114eb1](https://github.com/wmfs/tymly-etl-plugin/commit/6114eb19b3b6eb148241c13f4cd1fe385a6b4ed0))
+* **deps-dev:** Bump nyc from 15.0.1 to 15.1.0 ([093fe4b](https://github.com/wmfs/tymly-etl-plugin/commit/093fe4b595ee32ac433a7f402c0df1b7cb7476e2))
+* **deps-dev:** Bump semantic-release from 17.0.7 to 17.0.8 ([4955fdb](https://github.com/wmfs/tymly-etl-plugin/commit/4955fdba2629d4c0e38939edd2c1c8018942056f))
+* **deps-dev:** Bump standard from 14.3.3 to 14.3.4 ([19f722f](https://github.com/wmfs/tymly-etl-plugin/commit/19f722f738a266b009a6db3fb72bb417e97ce049))
+
+
+### 📦 Code Refactoring
+
+* **tests:** Flip tymly.boot and statebox.startExecution from callback style ([83b9ccb](https://github.com/wmfs/tymly-etl-plugin/commit/83b9ccbbb8f16e7f58c3e2ae8c4f4da22ff300e3))
+
 # [1.137.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.136.0...v1.137.0) (2020-04-27)
 
 
