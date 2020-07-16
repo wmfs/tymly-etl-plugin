@@ -1,3 +1,25 @@
+# [1.139.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.138.0...v1.139.0) (2020-07-16)
+
+
+### 🛠 Builds
+
+* **deps:** Bump [@wmfs](https://github.com/wmfs)/xml2csv from 1.15.0 to 1.16.0 ([8af81d7](https://github.com/wmfs/tymly-etl-plugin/commit/8af81d72a666ac35e6ff01aad6a77ec62cfe7632))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.143.0 to 1.144.0 ([fd890ae](https://github.com/wmfs/tymly-etl-plugin/commit/fd890aeb20290cf9ea4aae7f9f6cba2644ef6819))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.144.0 to 1.145.0 ([33611d1](https://github.com/wmfs/tymly-etl-plugin/commit/33611d17e739db810732c6b4714749abaa1c7224))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.145.0 to 1.146.0 ([d29d44b](https://github.com/wmfs/tymly-etl-plugin/commit/d29d44b0bfe05680ff2ea813ebbd2bdf1d58d87b))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.146.0 to 1.147.0 ([f1b3c83](https://github.com/wmfs/tymly-etl-plugin/commit/f1b3c8357031c0eb2807509b3fea5ecf457c76c2))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.147.0 to 1.148.0 ([31aec2f](https://github.com/wmfs/tymly-etl-plugin/commit/31aec2f536a1c0019170e7570e7c6b1eec1a6d65))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.148.0 to 1.149.0 ([e8a80a3](https://github.com/wmfs/tymly-etl-plugin/commit/e8a80a3f225f6cc100baab5403ad97198b789fdb))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.149.0 to 1.150.0 ([df9000c](https://github.com/wmfs/tymly-etl-plugin/commit/df9000c46f30d22ae97337cf3ec6334f44a7de46))
+* **deps-dev:** Bump mocha from 7.2.0 to 8.0.1 ([0acf905](https://github.com/wmfs/tymly-etl-plugin/commit/0acf9053806e4b2e76eba935c1b80e9b328ac2a8))
+* **deps-dev:** Bump semantic-release from 17.0.8 to 17.1.0 ([e952c4b](https://github.com/wmfs/tymly-etl-plugin/commit/e952c4b9dc763b6934d368b081cc0b2f4ec20d4c))
+* **deps-dev:** Bump semantic-release from 17.1.0 to 17.1.1 ([1fa7745](https://github.com/wmfs/tymly-etl-plugin/commit/1fa77458042eb541b5815a3aea215b33aeefc397))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** use updated circle node image [skip ci] ([8b4f4b9](https://github.com/wmfs/tymly-etl-plugin/commit/8b4f4b91e55e9c9430d21a290386550f171a6db9))
+
 # [1.138.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.137.0...v1.138.0) (2020-06-01)
 
 
