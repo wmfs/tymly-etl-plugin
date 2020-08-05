@@ -34,7 +34,7 @@
     "csvtojson": "2.0.10",
     "cz-conventional-changelog": "3.2.0",
     "glob": "7.1.6",
-    "mocha": "8.1.0",
+    "mocha": "8.1.1",
     "nyc": "15.1.0",
     "semantic-release": "17.1.1",
     "standard": "14.3.4",
