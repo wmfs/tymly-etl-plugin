@@ -1,3 +1,19 @@
+# [1.140.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.139.0...v1.140.0) (2020-08-25)
+
+
+### 🛠 Builds
+
+* **deps:** Bump [@wmfs](https://github.com/wmfs)/xml2csv from 1.16.0 to 1.17.0 ([81040d4](https://github.com/wmfs/tymly-etl-plugin/commit/81040d482c7742a59395a4a2a55fa1bc2a20ab99))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.150.0 to 1.152.0 ([6bbbe64](https://github.com/wmfs/tymly-etl-plugin/commit/6bbbe641e55af83bf054265f7bff13d347670770))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.152.0 to 1.153.0 ([a3d1bca](https://github.com/wmfs/tymly-etl-plugin/commit/a3d1bca8d7d444850932b3631c801143e5ca8d90))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.153.0 to 1.154.0 ([cfc6afa](https://github.com/wmfs/tymly-etl-plugin/commit/cfc6afa9d7091103f13d1504ec87d5e9767ce671))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.154.0 to 1.156.0 ([2c3cbf7](https://github.com/wmfs/tymly-etl-plugin/commit/2c3cbf7bb39367cce905c6cd95dc325be8598256))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.156.0 to 1.157.0 ([c621e87](https://github.com/wmfs/tymly-etl-plugin/commit/c621e8705ec36e4e86d9cd96f23e9b0f9dbc60f0))
+* **deps-dev:** Bump codecov from 3.7.0 to 3.7.1 ([85f6341](https://github.com/wmfs/tymly-etl-plugin/commit/85f634144ccb41002dd237d0a4577a7ed1ad54ab))
+* **deps-dev:** Bump codecov from 3.7.1 to 3.7.2 ([f498f82](https://github.com/wmfs/tymly-etl-plugin/commit/f498f82beef95ed8a257b80cf350fbfcbec6ba12))
+* **deps-dev:** Bump mocha from 8.0.1 to 8.1.0 ([1e60850](https://github.com/wmfs/tymly-etl-plugin/commit/1e608506517c9cf6b9f1ba890debeb0d7d817121))
+* **deps-dev:** Bump mocha from 8.1.0 to 8.1.1 ([a2fc110](https://github.com/wmfs/tymly-etl-plugin/commit/a2fc110a7dec8f739c134ec423fe1b53a2943d9c))
+
 # [1.139.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.138.0...v1.139.0) (2020-07-16)
 
 
