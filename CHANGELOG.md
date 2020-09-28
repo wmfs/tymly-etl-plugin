@@ -1,3 +1,20 @@
+# [1.141.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.140.0...v1.141.0) (2020-09-28)
+
+
+### 🛠 Builds
+
+* **deps:** Bump debug from 4.1.1 to 4.2.0 ([1b05c4a](https://github.com/wmfs/tymly-etl-plugin/commit/1b05c4a33c531354eb87aa15fbde184d30c04217))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.157.0 to 1.158.0 ([dc45312](https://github.com/wmfs/tymly-etl-plugin/commit/dc45312cd4708112ee4baefcc7b59ff85d5a4d9d))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.158.0 to 1.159.0 ([c54953c](https://github.com/wmfs/tymly-etl-plugin/commit/c54953c4aedf87ba7ee6695cf78eee2a220f319b))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.159.0 to 1.160.0 ([817be06](https://github.com/wmfs/tymly-etl-plugin/commit/817be06647cab2e2ea722a9fbdd2302600bfba24))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly-test-helpers from 1.4.2 to 1.6.0 ([6503432](https://github.com/wmfs/tymly-etl-plugin/commit/650343244c7d9b711f7732f8052077866e5e6928))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly-test-helpers from 1.6.0 to 1.7.0 ([cd25938](https://github.com/wmfs/tymly-etl-plugin/commit/cd25938cc813d91b6993e33109a3def664d640af))
+* **deps-dev:** Bump cz-conventional-changelog from 3.2.0 to 3.2.1 ([b1296bc](https://github.com/wmfs/tymly-etl-plugin/commit/b1296bc9dd9a044bd78bc6a81c68db66a05aa8f0))
+* **deps-dev:** Bump cz-conventional-changelog from 3.2.1 to 3.3.0 ([5bed0a8](https://github.com/wmfs/tymly-etl-plugin/commit/5bed0a838766de2fe6b491d3a6baba5577bd55c9))
+* **deps-dev:** Bump mocha from 8.1.1 to 8.1.2 ([12ddf7d](https://github.com/wmfs/tymly-etl-plugin/commit/12ddf7d2c279734856ccf0bf63f58f8183fc60f1))
+* **deps-dev:** Bump mocha from 8.1.2 to 8.1.3 ([8438349](https://github.com/wmfs/tymly-etl-plugin/commit/8438349a68ecf269e52925842c9fca7af0599bfe))
+* **deps-dev:** Bump semantic-release from 17.1.1 to 17.1.2 ([e50cd6f](https://github.com/wmfs/tymly-etl-plugin/commit/e50cd6f75df97a338f6d014ba8d6793b0a3b3db6))
+
 # [1.140.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.139.0...v1.140.0) (2020-08-25)
 
 
