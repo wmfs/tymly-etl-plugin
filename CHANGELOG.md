@@ -1,3 +1,11 @@
+# [1.142.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.141.0...v1.142.0) (2020-09-29)
+
+
+### 🛠 Builds
+
+* **deps:** Bump [@wmfs](https://github.com/wmfs)/smithereens from 1.40.0 to 1.41.0 ([20c8198](https://github.com/wmfs/tymly-etl-plugin/commit/20c81982f67e2b154e7b62cefd53ce82e29b3e18))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.160.0 to 1.162.0 ([5c304e4](https://github.com/wmfs/tymly-etl-plugin/commit/5c304e4ba3617f959f4474ced2952404c25f0e69))
+
 # [1.141.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.140.0...v1.141.0) (2020-09-28)
 
 
