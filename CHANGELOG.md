@@ -1,3 +1,15 @@
+# [1.149.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.148.0...v1.149.0) (2021-01-20)
+
+
+### 🛠 Builds
+
+* **deps:** Bump [@wmfs](https://github.com/wmfs)/xml-flatten2csv from 1.4.0 to 1.5.0 ([8c697d5](https://github.com/wmfs/tymly-etl-plugin/commit/8c697d547de970e0d317b112d1b0a171e357804a))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.184.0 to 1.185.0 ([1b70b58](https://github.com/wmfs/tymly-etl-plugin/commit/1b70b58e109a8d1a31cdec81a191eec0aa072380))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.185.0 to 1.186.0 ([d460277](https://github.com/wmfs/tymly-etl-plugin/commit/d460277472af423a23f59ec44752dbcc9bbb4baa))
+* **deps-dev:** Bump semantic-release from 17.3.1 to 17.3.2 ([0ca44ca](https://github.com/wmfs/tymly-etl-plugin/commit/0ca44caa8cd8bc6232941877afbb7c70fe6a532d))
+* **deps-dev:** Bump semantic-release from 17.3.2 to 17.3.3 ([1ce4477](https://github.com/wmfs/tymly-etl-plugin/commit/1ce447774a4d3a2924fc36d1da145364a3433ce3))
+* **deps-dev:** Bump semantic-release from 17.3.3 to 17.3.4 ([118c7ac](https://github.com/wmfs/tymly-etl-plugin/commit/118c7acbcca91c6e6e74ca605f57a587402b6a4c))
+
 # [1.148.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.147.0...v1.148.0) (2021-01-12)
 
 
