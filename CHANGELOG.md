@@ -1,3 +1,18 @@
+# [1.151.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.150.0...v1.151.0) (2021-02-24)
+
+
+### 🛠 Builds
+
+* **deps:** Bump [@wmfs](https://github.com/wmfs)/xml2csv from 1.22.0 to 1.23.0 ([088a12f](https://github.com/wmfs/tymly-etl-plugin/commit/088a12f8f673fa49e4a92bdf659c93574a9d026a))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.187.0 to 1.188.0 ([157f162](https://github.com/wmfs/tymly-etl-plugin/commit/157f162362998bae039d2931f45b0534eb12a563))
+* **deps-dev:** Bump chai from 4.2.0 to 4.3.0 ([67b47bd](https://github.com/wmfs/tymly-etl-plugin/commit/67b47bdf50d9f25423d0d4145544caeb63e904a9))
+* **deps-dev:** Bump mocha from 8.2.1 to 8.3.0 ([52bb9f2](https://github.com/wmfs/tymly-etl-plugin/commit/52bb9f251a7a4b5fe4b56772fcb7ab19fd0c9c8d))
+* **deps-dev:** Bump semantic-release from 17.3.4 to 17.3.5 ([2078e86](https://github.com/wmfs/tymly-etl-plugin/commit/2078e861236d276847bd6dab893710e073de993d))
+* **deps-dev:** Bump semantic-release from 17.3.5 to 17.3.6 ([94a20d6](https://github.com/wmfs/tymly-etl-plugin/commit/94a20d603dd61021590d43eb5e9013b844562749))
+* **deps-dev:** Bump semantic-release from 17.3.6 to 17.3.7 ([7354fa6](https://github.com/wmfs/tymly-etl-plugin/commit/7354fa66f115cd89a57b76f2650c47295ea93833))
+* **deps-dev:** Bump semantic-release from 17.3.7 to 17.3.8 ([1f00c61](https://github.com/wmfs/tymly-etl-plugin/commit/1f00c6164b28105348a829eb6d8ec54dc9bb9f13))
+* **deps-dev:** Bump semantic-release from 17.3.8 to 17.3.9 ([c8c1230](https://github.com/wmfs/tymly-etl-plugin/commit/c8c123031f33ed055430794964accc93c4bbc564))
+
 # [1.150.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.149.0...v1.150.0) (2021-01-20)
 
 
