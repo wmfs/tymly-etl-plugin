@@ -1,3 +1,13 @@
+# [1.153.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.152.0...v1.153.0) (2021-05-11)
+
+
+### 🛠 Builds
+
+* **deps:** Bump [@wmfs](https://github.com/wmfs)/xml-flatten2csv from 1.7.0 to 1.8.0 ([2968617](https://github.com/wmfs/tymly-etl-plugin/commit/2968617b899c3d0a23343f88525074b15547db90))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.200.0 to 1.201.0 ([e565e8f](https://github.com/wmfs/tymly-etl-plugin/commit/e565e8f8e33ded6b14a8f859cede070459c76615))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.201.0 to 1.202.0 ([d6c6167](https://github.com/wmfs/tymly-etl-plugin/commit/d6c6167d86f5fda0f10d106bfbb67ab633355d93))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.202.0 to 1.203.0 ([41cbbcf](https://github.com/wmfs/tymly-etl-plugin/commit/41cbbcfbb484498641ef0034ec0ccaf40387a93e))
+
 # [1.152.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.151.0...v1.152.0) (2021-05-10)
 
 
