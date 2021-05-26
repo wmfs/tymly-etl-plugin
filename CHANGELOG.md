@@ -1,3 +1,17 @@
+# [1.154.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.153.0...v1.154.0) (2021-05-26)
+
+
+### 🛠 Builds
+
+* **deps:** Bump [@wmfs](https://github.com/wmfs)/smithereens from 1.45.0 to 1.46.0 ([1a35044](https://github.com/wmfs/tymly-etl-plugin/commit/1a35044a4990f2650d025a514da15e17bde28273))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.203.0 to 1.204.0 ([fd32ad1](https://github.com/wmfs/tymly-etl-plugin/commit/fd32ad136996826eae375a45e47627579e499741))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.204.0 to 1.205.0 ([45502f6](https://github.com/wmfs/tymly-etl-plugin/commit/45502f6a73361cffb4cfe448982ee750ff6a6fe2))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.205.0 to 1.206.0 ([6e5044d](https://github.com/wmfs/tymly-etl-plugin/commit/6e5044d94c663d1cf4ee97f8a55b3050fcafd75d))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.206.0 to 1.207.0 ([b5975f9](https://github.com/wmfs/tymly-etl-plugin/commit/b5975f975c2fa8a95ba305d96516dd8bc0ed87a4))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.207.0 to 1.208.0 ([ac6c0c8](https://github.com/wmfs/tymly-etl-plugin/commit/ac6c0c82638f7a1385d9d48d47b7b6c2fc0df107))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly from 1.208.0 to 1.209.0 ([afceb73](https://github.com/wmfs/tymly-etl-plugin/commit/afceb7390e8296fcf178e5f9738aadfb4f96644d))
+* **deps-dev:** Bump semantic-release from 17.4.2 to 17.4.3 ([892c72a](https://github.com/wmfs/tymly-etl-plugin/commit/892c72a144375f7b2b3707cd1135d712c38bcc98))
+
 # [1.153.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.152.0...v1.153.0) (2021-05-11)
 
 
