@@ -1,3 +1,15 @@
+# [1.155.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.154.0...v1.155.0) (2021-07-09)
+
+
+### 🛠 Builds
+
+* **deps:** Bump debug from 4.3.1 to 4.3.2 ([ac74c09](https://github.com/wmfs/tymly-etl-plugin/commit/ac74c093ecbe9e82b3953e1e5176cc7965e093ba))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/tymly-test-helpers from 1.7.0 to 1.8.0 ([a6aa748](https://github.com/wmfs/tymly-etl-plugin/commit/a6aa7485706d554db39ea4e62821a55bef015cde))
+* **deps-dev:** Bump mocha from 8.4.0 to 9.0.0 ([833e404](https://github.com/wmfs/tymly-etl-plugin/commit/833e404a48ea97c15f805bd5c19df9420c5883e6))
+* **deps-dev:** Bump mocha from 9.0.0 to 9.0.1 ([d148e17](https://github.com/wmfs/tymly-etl-plugin/commit/d148e179f26d42ffb92f5153be090cb71a99d41b))
+* **deps-dev:** Bump mocha from 9.0.1 to 9.0.2 ([48651b5](https://github.com/wmfs/tymly-etl-plugin/commit/48651b578c564322707e51c51adbae0ac20b531c))
+* **deps-dev:** Bump semantic-release from 17.4.3 to 17.4.4 ([67a7f71](https://github.com/wmfs/tymly-etl-plugin/commit/67a7f71f91a7884215beec6153487a1aa019d3f1))
+
 # [1.154.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.153.0...v1.154.0) (2021-05-26)
 
 
