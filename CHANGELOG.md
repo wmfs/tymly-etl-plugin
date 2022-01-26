@@ -1,3 +1,12 @@
+# [1.159.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.158.0...v1.159.0) (2022-01-26)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.234.0 ([0594602](https://github.com/wmfs/tymly-etl-plugin/commit/05946023957df1a517e798bb76c448c8c4b756a9))
+* **deps-dev:** update dependency chai to v4.3.5 ([b9150e6](https://github.com/wmfs/tymly-etl-plugin/commit/b9150e670f5d41de99a44515560f44b21175f764))
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/smithereens to v1.48.0 ([a2b7471](https://github.com/wmfs/tymly-etl-plugin/commit/a2b7471a387a7d80a706e2184064f574076155f5))
+
 # [1.158.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.157.0...v1.158.0) (2022-01-25)
 
 
