@@ -22,7 +22,7 @@
   },
   "main": "./lib/index.js",
   "dependencies": {
-    "@wmfs/smithereens": "1.53.0",
+    "@wmfs/smithereens": "1.54.0",
     "@wmfs/xml-flatten2csv": "1.9.0",
     "@wmfs/xml2csv": "1.30.0"
   },
