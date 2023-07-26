@@ -1,3 +1,27 @@
+# [1.168.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.167.0...v1.168.0) (2023-07-26)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6.0.3 ([2c168ac](https://github.com/wmfs/tymly-etl-plugin/commit/2c168ac263a76988a189fb320c66a730c9ea6305))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.256.0 ([3e148e1](https://github.com/wmfs/tymly-etl-plugin/commit/3e148e1f6c35b244f26fa1f1b293872f94b5070b))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.258.0 ([352169d](https://github.com/wmfs/tymly-etl-plugin/commit/352169d2232e32c7ac8ccea70deeb6ca41f3fa05))
+* **deps-dev:** update dependency semantic-release to v20.1.3 ([d05c101](https://github.com/wmfs/tymly-etl-plugin/commit/d05c101a91425ad6d4314d4c71e943ba2d78a968))
+* **deps-dev:** update dependency semantic-release to v21 ([a9cbf23](https://github.com/wmfs/tymly-etl-plugin/commit/a9cbf23186524ef2cf6f52d7b4b8a0538721b313))
+* **deps-dev:** update dependency semantic-release to v21.0.1 ([e273b30](https://github.com/wmfs/tymly-etl-plugin/commit/e273b3074d26c87c26dfa63e362800344a5beb0e))
+* **deps-dev:** update dependency semantic-release to v21.0.2 ([fa08f65](https://github.com/wmfs/tymly-etl-plugin/commit/fa08f65441161a81b7b59c94379a93d4336dc79f))
+* **deps-dev:** update dependency semantic-release to v21.0.3 ([3ab199e](https://github.com/wmfs/tymly-etl-plugin/commit/3ab199e8beb6337abebbc58357b64f244bca1675))
+* **deps-dev:** update dependency semantic-release to v21.0.5 ([2f5de6a](https://github.com/wmfs/tymly-etl-plugin/commit/2f5de6aaeebcd331ef90f266311788e3313d6cd5))
+* **deps-dev:** update dependency semantic-release to v21.0.6 ([6fd2de9](https://github.com/wmfs/tymly-etl-plugin/commit/6fd2de96dcc6b806d72fd7c9b1b40eb8dc337e4e))
+* **deps-dev:** update dependency semantic-release to v21.0.7 ([1783ae0](https://github.com/wmfs/tymly-etl-plugin/commit/1783ae0826e32251c05487801d0c4060010273c1))
+* **deps-dev:** update dependency standard to v17.1.0 ([d1a4a56](https://github.com/wmfs/tymly-etl-plugin/commit/d1a4a560ec3d50e872aeb3c3e9252456acbf647d))
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/xml2csv to v1.31.0 ([82d63f1](https://github.com/wmfs/tymly-etl-plugin/commit/82d63f1b08c1d2049ebd67ea6e5fa42b4d7ee903))
+
+
+### 📦 Code Refactoring
+
+* standard code styling ([7110834](https://github.com/wmfs/tymly-etl-plugin/commit/71108346627a9a1925f4c32d6e2fe06ef0587737))
+
 # [1.167.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.166.0...v1.167.0) (2023-03-13)
 
 
