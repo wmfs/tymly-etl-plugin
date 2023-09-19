@@ -1,3 +1,17 @@
+# [1.169.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.168.0...v1.169.0) (2023-09-19)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.261.0 ([1ffa81f](https://github.com/wmfs/tymly-etl-plugin/commit/1ffa81f48cb82bc1adebb90a271dcc0415157bd2))
+* **deps-dev:** update dependency chai to v4.3.8 ([be7c847](https://github.com/wmfs/tymly-etl-plugin/commit/be7c847e2641762cb61a424e9a4b22ea2456d1c9))
+* **deps-dev:** update dependency semantic-release to v21.0.9 ([996b5a4](https://github.com/wmfs/tymly-etl-plugin/commit/996b5a45a2c26d80cbbd37398c9ef9f983013b0e))
+* **deps-dev:** update dependency semantic-release to v21.1.0 ([555e6f2](https://github.com/wmfs/tymly-etl-plugin/commit/555e6f22a3002afe95d4a0653a5399deea722bc5))
+* **deps-dev:** update dependency semantic-release to v21.1.1 ([01fba8a](https://github.com/wmfs/tymly-etl-plugin/commit/01fba8a4bdfe747625ede41b432e1420f12f033f))
+* **deps-dev:** update dependency semantic-release to v21.1.2 ([1f9fd5c](https://github.com/wmfs/tymly-etl-plugin/commit/1f9fd5c06e9e4b9e9c45936b8c4fc9526d735dea))
+* **deps-dev:** update dependency semantic-release to v22 ([36f1026](https://github.com/wmfs/tymly-etl-plugin/commit/36f1026c367b51218cb616f2f50595ae5f30d82d))
+* **deps:** revert semantic-release ([fd9cff6](https://github.com/wmfs/tymly-etl-plugin/commit/fd9cff6bec95b187ac3e7846f3ef2f440d272516))
+
 # [1.168.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.167.0...v1.168.0) (2023-07-26)
 
 
