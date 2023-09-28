@@ -32,7 +32,7 @@
     "conventional-changelog-metahub": "4.0.1",
     "csvtojson": "2.0.10",
     "cz-conventional-changelog": "3.3.0",
-    "glob": "8.1.0",
+    "glob": "10.3.10",
     "mocha": "10.2.0",
     "nyc": "15.1.0",
     "semantic-release": "21.1.1",
