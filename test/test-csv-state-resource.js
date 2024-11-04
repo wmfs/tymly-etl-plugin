@@ -3,7 +3,7 @@
 const tymly = require('@wmfs/tymly')
 const path = require('path')
 const expect = require('chai').expect
-const glob = require('glob')
+const { globSync } = require('glob')
 const _ = require('lodash')
 const csv = require('csvtojson')
 const STATE_MACHINE_NAME = 'tymlyTest_people_1_0'
@@ -50,7 +50,7 @@ describe('CSV and tymly test', function () {
   })
 
   it('create delete and upserts directories', () => {
-    const files = glob.sync(path.resolve(fixture, 'output', '*'))
+    const files = globSync(path.resolve(fixture, 'output', '*'))
 
     expect(files).to.deep.equal([
       _.replace(path.resolve(fixture, 'output', 'delete'), /\\/g, '/'),
