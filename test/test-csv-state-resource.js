@@ -53,7 +53,6 @@ describe('CSV and tymly test', function () {
     const files = globSync(path.resolve(fixture, 'output', '*'))
 
     files.sort()
-    console.log(files)
 
     expect(files).to.deep.equal([
       _.replace(path.resolve(fixture, 'output', 'delete'), /\\/g, '/'),
