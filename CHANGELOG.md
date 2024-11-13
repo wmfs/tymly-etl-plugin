@@ -1,3 +1,5 @@
+# [1.178.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.177.0...v1.178.0) (2024-11-13)
+
 # [1.177.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.176.0...v1.177.0) (2024-11-05)
 
 # [1.176.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.175.0...v1.176.0) (2024-11-04)
