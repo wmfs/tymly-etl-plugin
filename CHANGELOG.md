@@ -1,3 +1,11 @@
+## [1.182.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.181.0...v1.182.0) (2025-01-23)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @wmfs/tymly to v1.292.0 ([#743](https://github.com/wmfs/tymly-etl-plugin/issues/743)) ([1101296](https://github.com/wmfs/tymly-etl-plugin/commit/1101296822beb7d5cab840eb537aca02b4d806f2))
+* **deps-dev:** update dependency mocha to v11.1.0 ([#744](https://github.com/wmfs/tymly-etl-plugin/issues/744)) ([220ff11](https://github.com/wmfs/tymly-etl-plugin/commit/220ff116867f99b303da79b72348bdda8e194036))
+* **deps:** update dependency @wmfs/xml2csv to v1.36.0 ([#745](https://github.com/wmfs/tymly-etl-plugin/issues/745)) ([4987706](https://github.com/wmfs/tymly-etl-plugin/commit/49877061bae4d68cacf058b658c6b5609ae2f9cf))
+
 ## [1.181.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.180.0...v1.181.0) (2025-01-13)
 
 ### Build system dependencies :hammer:
