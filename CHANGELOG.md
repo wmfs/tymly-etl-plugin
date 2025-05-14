@@ -1,3 +1,9 @@
+## [1.186.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.185.0...v1.186.0) (2025-05-14)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency @wmfs/xml2csv to v1.37.0 ([#770](https://github.com/wmfs/tymly-etl-plugin/issues/770)) ([8e78ec4](https://github.com/wmfs/tymly-etl-plugin/commit/8e78ec43a96cc9b6c3529b10b8baf8406b90bd90))
+
 ## [1.185.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.184.0...v1.185.0) (2025-05-14)
 
 ### Build system dependencies :hammer:
