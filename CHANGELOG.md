@@ -1,3 +1,19 @@
+## [1.187.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.186.0...v1.187.0) (2025-06-13)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @wmfs/tymly to v1.310.0 ([#768](https://github.com/wmfs/tymly-etl-plugin/issues/768)) ([afae08b](https://github.com/wmfs/tymly-etl-plugin/commit/afae08b4ab570af89678519943c0b98ecabe8bd9))
+* **deps-dev:** update dependency @wmfs/tymly to v1.311.0 ([#773](https://github.com/wmfs/tymly-etl-plugin/issues/773)) ([6857461](https://github.com/wmfs/tymly-etl-plugin/commit/6857461e9a9111957194089a24e62708e28da052))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9 ([#775](https://github.com/wmfs/tymly-etl-plugin/issues/775)) ([2b6819a](https://github.com/wmfs/tymly-etl-plugin/commit/2b6819a66a8beb726507728fb5592389974e9dd0))
+* **deps-dev:** update dependency glob to v11.0.3 ([#779](https://github.com/wmfs/tymly-etl-plugin/issues/779)) ([599faae](https://github.com/wmfs/tymly-etl-plugin/commit/599faae38bc747bf73e8604fd123ee319b316a5d))
+* **deps-dev:** update dependency mocha to v11.3.0 ([#771](https://github.com/wmfs/tymly-etl-plugin/issues/771)) ([4a326b5](https://github.com/wmfs/tymly-etl-plugin/commit/4a326b58507926265e17b62a3b36a8a857cd1c3c))
+* **deps-dev:** update dependency mocha to v11.4.0 ([#774](https://github.com/wmfs/tymly-etl-plugin/issues/774)) ([779ccdb](https://github.com/wmfs/tymly-etl-plugin/commit/779ccdbd728d8e4ce0f5628dd6304da18ecdabd5))
+* **deps-dev:** update dependency mocha to v11.5.0 ([#777](https://github.com/wmfs/tymly-etl-plugin/issues/777)) ([76d9ec5](https://github.com/wmfs/tymly-etl-plugin/commit/76d9ec5a994d185302f2195b9fe213ac42b809ae))
+* **deps-dev:** update dependency mocha to v11.6.0 ([#778](https://github.com/wmfs/tymly-etl-plugin/issues/778)) ([fced4e0](https://github.com/wmfs/tymly-etl-plugin/commit/fced4e0a793ee80d762c3869089416d921baf035))
+* **deps-dev:** update dependency semantic-release to v24.2.4 ([#772](https://github.com/wmfs/tymly-etl-plugin/issues/772)) ([9a8de60](https://github.com/wmfs/tymly-etl-plugin/commit/9a8de60e1d5516dae8ebb70ee9659a2751c2fcb5))
+* **deps-dev:** update dependency semantic-release to v24.2.5 ([#776](https://github.com/wmfs/tymly-etl-plugin/issues/776)) ([c981601](https://github.com/wmfs/tymly-etl-plugin/commit/c981601ff32901a6b528367bc8b82218374cea50))
+* **deps:** update dependency @wmfs/smithereens to v1.69.0 ([#781](https://github.com/wmfs/tymly-etl-plugin/issues/781)) ([16d55f0](https://github.com/wmfs/tymly-etl-plugin/commit/16d55f003f8ef5cb76a14e17b219c89eecda7921))
+
 ## [1.186.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.185.0...v1.186.0) (2025-05-14)
 
 ### Build system dependencies :hammer:
