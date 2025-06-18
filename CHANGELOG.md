@@ -1,3 +1,10 @@
+## [1.188.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.187.0...v1.188.0) (2025-06-18)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @wmfs/tymly to v1.312.0 ([#780](https://github.com/wmfs/tymly-etl-plugin/issues/780)) ([a4ab14e](https://github.com/wmfs/tymly-etl-plugin/commit/a4ab14e1ad346eb51a5ade007cc9aa88ec8ee479))
+* **deps:** update dependency @wmfs/smithereens to v1.70.0 ([#782](https://github.com/wmfs/tymly-etl-plugin/issues/782)) ([f0c3ad4](https://github.com/wmfs/tymly-etl-plugin/commit/f0c3ad4059e00677803ef0ede77e88af4f03fe87))
+
 ## [1.187.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.186.0...v1.187.0) (2025-06-13)
 
 ### Build system dependencies :hammer:
