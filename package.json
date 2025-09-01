@@ -33,7 +33,7 @@
     "csvtojson": "2.0.10",
     "cz-conventional-changelog": "3.3.0",
     "glob": "11.0.3",
-    "mocha": "11.7.1",
+    "mocha": "11.7.2",
     "nyc": "17.1.0",
     "semantic-release": "24.2.7",
     "standard": "17.1.2",
