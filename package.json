@@ -27,7 +27,7 @@
     "@wmfs/xml2csv": "1.37.0"
   },
   "devDependencies": {
-    "chai": "6.2.0",
+    "chai": "4.5.0",
     "codecov": "3.8.3",
     "conventional-changelog-conventionalcommits": "9.1.0",
     "csvtojson": "2.0.10",
