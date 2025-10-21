@@ -1,3 +1,27 @@
+## [1.189.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.188.0...v1.189.0) (2025-10-21)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @semantic-release/release-notes-generator to v14.1.0 ([#793](https://github.com/wmfs/tymly-etl-plugin/issues/793)) ([17b756c](https://github.com/wmfs/tymly-etl-plugin/commit/17b756c68188171986540b0502dae84f1c83ce31))
+* **deps-dev:** update dependency @wmfs/tymly to v1.313.0 ([#786](https://github.com/wmfs/tymly-etl-plugin/issues/786)) ([a7a57ed](https://github.com/wmfs/tymly-etl-plugin/commit/a7a57edfc77a1e730e2811ed578f970c998391a1))
+* **deps-dev:** update dependency @wmfs/tymly to v1.314.0 ([#788](https://github.com/wmfs/tymly-etl-plugin/issues/788)) ([2ea07ae](https://github.com/wmfs/tymly-etl-plugin/commit/2ea07ae93558e03889e0abf97ac2f75f51b50380))
+* **deps-dev:** update dependency @wmfs/tymly to v1.315.0 ([#790](https://github.com/wmfs/tymly-etl-plugin/issues/790)) ([f9a8591](https://github.com/wmfs/tymly-etl-plugin/commit/f9a8591490c257caf7163651ed12351c7a4ab044))
+* **deps-dev:** update dependency chai to v6 ([#791](https://github.com/wmfs/tymly-etl-plugin/issues/791)) ([0ab2a62](https://github.com/wmfs/tymly-etl-plugin/commit/0ab2a6246f6f17620ad001857954fceb38ff7409))
+* **deps-dev:** update dependency chai to v6.2.0 ([#796](https://github.com/wmfs/tymly-etl-plugin/issues/796)) ([890460a](https://github.com/wmfs/tymly-etl-plugin/commit/890460a77db5e40de63575893ed82d4b76de45cc))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9.1.0 ([#787](https://github.com/wmfs/tymly-etl-plugin/issues/787)) ([6632ca8](https://github.com/wmfs/tymly-etl-plugin/commit/6632ca8b1d45ad5a10bbb7cee01e870ba9898d46))
+* **deps-dev:** update dependency mocha to v11.7.0 ([#783](https://github.com/wmfs/tymly-etl-plugin/issues/783)) ([08ad7ac](https://github.com/wmfs/tymly-etl-plugin/commit/08ad7acc3ad3872fd693569a3030e79405bef5cf))
+* **deps-dev:** update dependency mocha to v11.7.1 ([#784](https://github.com/wmfs/tymly-etl-plugin/issues/784)) ([c76e37e](https://github.com/wmfs/tymly-etl-plugin/commit/c76e37ed0f57476c169c976857d9ea224971d6cf))
+* **deps-dev:** update dependency mocha to v11.7.2 ([#792](https://github.com/wmfs/tymly-etl-plugin/issues/792)) ([15fc760](https://github.com/wmfs/tymly-etl-plugin/commit/15fc760693996353e6556474d7010b167bbdce5e))
+* **deps-dev:** update dependency mocha to v11.7.3 ([#797](https://github.com/wmfs/tymly-etl-plugin/issues/797)) ([c4bca07](https://github.com/wmfs/tymly-etl-plugin/commit/c4bca07f63ba4121cfa64ee5e02aea48a4ab2a06))
+* **deps-dev:** update dependency mocha to v11.7.4 ([#798](https://github.com/wmfs/tymly-etl-plugin/issues/798)) ([0029461](https://github.com/wmfs/tymly-etl-plugin/commit/0029461b301f3b3f9328105abe1b0bf28b9c8345))
+* **deps-dev:** update dependency semantic-release to v24.2.6 ([#785](https://github.com/wmfs/tymly-etl-plugin/issues/785)) ([19e8d67](https://github.com/wmfs/tymly-etl-plugin/commit/19e8d670af34df42d19ea5c4c958f6a3e7b767fb))
+* **deps-dev:** update dependency semantic-release to v24.2.7 ([#789](https://github.com/wmfs/tymly-etl-plugin/issues/789)) ([9b2f568](https://github.com/wmfs/tymly-etl-plugin/commit/9b2f56882950f32782f111ee1590a527eb99c43c))
+* **deps-dev:** update dependency semantic-release to v24.2.8 ([#794](https://github.com/wmfs/tymly-etl-plugin/issues/794)) ([c1af310](https://github.com/wmfs/tymly-etl-plugin/commit/c1af3102e146f02e4771df03b3e6b493ae2efdba))
+* **deps-dev:** update dependency semantic-release to v24.2.9 ([#795](https://github.com/wmfs/tymly-etl-plugin/issues/795)) ([eac3694](https://github.com/wmfs/tymly-etl-plugin/commit/eac36943c3a9376367f4b3fd9b4ef63e5a1567aa))
+* **deps-dev:** update dependency semantic-release to v25 ([#799](https://github.com/wmfs/tymly-etl-plugin/issues/799)) ([900fb65](https://github.com/wmfs/tymly-etl-plugin/commit/900fb6511a3750bfcfaa15a2cd7929b674cd2f59))
+* **deps-dev:** update dependency semantic-release to v25.0.1 ([#800](https://github.com/wmfs/tymly-etl-plugin/issues/800)) ([759a4ac](https://github.com/wmfs/tymly-etl-plugin/commit/759a4ac9a7cefa097615ae380b3912d706da1836))
+* **deps:** revert chai to non-esm ([5491ee6](https://github.com/wmfs/tymly-etl-plugin/commit/5491ee66f7deb5b464e6cc8df21949335f2b44a2))
+
 ## [1.188.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.187.0...v1.188.0) (2025-06-18)
 
 ### Build system dependencies :hammer:
