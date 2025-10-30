@@ -30,7 +30,7 @@
     "chai": "4.5.0",
     "codecov": "3.8.3",
     "conventional-changelog-conventionalcommits": "9.1.0",
-    "csvtojson": "2.0.13",
+    "csvtojson": "2.0.14",
     "cz-conventional-changelog": "3.3.0",
     "glob": "11.0.3",
     "mocha": "11.7.4",
