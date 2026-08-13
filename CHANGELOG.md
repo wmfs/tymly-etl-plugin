@@ -1,3 +1,5 @@
+## [1.189.1](https://github.com/wmfs/tymly-etl-plugin/compare/v1.189.0...v1.189.1) (2026-08-13)
+
 ## [1.189.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.188.0...v1.189.0) (2025-10-21)
 
 ### Build system dependencies :hammer:
