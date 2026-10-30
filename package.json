@@ -22,9 +22,9 @@
   },
   "main": "./lib/index.js",
   "dependencies": {
-    "@wmfs/smithereens": "1.70.0",
-    "@wmfs/xml-flatten2csv": "1.12.0",
-    "@wmfs/xml2csv": "1.37.0"
+    "@wmfs/smithereens": "1.73.0",
+    "@wmfs/xml-flatten2csv": "1.13.0",
+    "@wmfs/xml2csv": "1.39.0"
   },
   "devDependencies": {
     "chai": "4.5.0",
@@ -42,7 +42,7 @@
     "@semantic-release/git": "11.0.1",
     "@semantic-release/exec": "7.1.0",
     "@wmfs/tymly-test-helpers": "1.24.1",
-    "@wmfs/tymly": "1.317.1"
+    "@wmfs/tymly": "1.322.0"
   },
   "scripts": {
     "lint": "standard",
