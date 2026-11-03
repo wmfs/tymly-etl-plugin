@@ -1,3 +1,23 @@
+## [1.190.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.189.1...v1.190.0) (2026-11-03)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** fix conventionalcommit versions [sc-34125] ([0024127](https://github.com/wmfs/tymly-etl-plugin/commit/0024127f0ceb3ce6cc737fcdd26e00e0ae299576))
+* **deps-dev:** update dependency @wmfs/tymly to v1.317.1 ([#840](https://github.com/wmfs/tymly-etl-plugin/issues/840)) ([a200dc6](https://github.com/wmfs/tymly-etl-plugin/commit/a200dc67da4f81d5b4eead12b3729c4ff55ce79f))
+* **deps-dev:** update dependency @wmfs/tymly-test-helpers to v1.24.1 ([#841](https://github.com/wmfs/tymly-etl-plugin/issues/841)) ([fffcd9d](https://github.com/wmfs/tymly-etl-plugin/commit/fffcd9d28d620ee8e7ae4707a8636a3ffb4a316c))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.0 ([#843](https://github.com/wmfs/tymly-etl-plugin/issues/843)) ([c1f7ab2](https://github.com/wmfs/tymly-etl-plugin/commit/c1f7ab26c8701eb465b77a881a208cb29f49c2e3))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.1 ([#848](https://github.com/wmfs/tymly-etl-plugin/issues/848)) ([9d09644](https://github.com/wmfs/tymly-etl-plugin/commit/9d096449ccc54e77712e573849d57f1a7e9feb43))
+* **deps-dev:** update dependency mocha to v12 ([#844](https://github.com/wmfs/tymly-etl-plugin/issues/844)) ([d686a58](https://github.com/wmfs/tymly-etl-plugin/commit/d686a5881cb0ffdced2454689104a16d4e87cc0a))
+* **deps-dev:** update dependency mocha to v12.0.1 ([#845](https://github.com/wmfs/tymly-etl-plugin/issues/845)) ([15a236e](https://github.com/wmfs/tymly-etl-plugin/commit/15a236e95c084611f2f3794539b4f7ac467eb46d))
+* **deps-dev:** update dependency mocha to v12.0.2 ([#846](https://github.com/wmfs/tymly-etl-plugin/issues/846)) ([20c36c5](https://github.com/wmfs/tymly-etl-plugin/commit/20c36c57dc65271bf51be6ee8b472597f7dfdcb0))
+* **deps-dev:** update dependency mocha to v12.0.3 ([#847](https://github.com/wmfs/tymly-etl-plugin/issues/847)) ([4775f17](https://github.com/wmfs/tymly-etl-plugin/commit/4775f178b9fa5f0cc80c4b0fc6ff49007e59724f))
+* **deps:** update [@wmfs](https://github.com/wmfs) packages ([#851](https://github.com/wmfs/tymly-etl-plugin/issues/851)) ([5afcd10](https://github.com/wmfs/tymly-etl-plugin/commit/5afcd104ac745ebe0ec910359bd1b2d35bd109f5))
+
+### CICD Configuration Changes :construction_worker:
+
+* use github-app-token orb for release token [sc-34101] ([#849](https://github.com/wmfs/tymly-etl-plugin/issues/849)) ([c1309cd](https://github.com/wmfs/tymly-etl-plugin/commit/c1309cdc5d941ba2764db06282547dcaa0543b5e))
+* use shared renovate preset [sc-34117] ([#850](https://github.com/wmfs/tymly-etl-plugin/issues/850)) ([271fe80](https://github.com/wmfs/tymly-etl-plugin/commit/271fe804c557051dbc734aa907ea95ed0e0b8104))
+
 ## [1.189.1](https://github.com/wmfs/tymly-etl-plugin/compare/v1.189.0...v1.189.1) (2026-08-13)
 
 ## [1.189.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.188.0...v1.189.0) (2025-10-21)
