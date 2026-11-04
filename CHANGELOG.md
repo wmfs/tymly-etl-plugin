@@ -1,3 +1,9 @@
+## [1.191.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.190.0...v1.191.0) (2026-11-04)
+
+### Build system dependencies :hammer:
+
+* **deps:** update [@wmfs](https://github.com/wmfs) packages ([#852](https://github.com/wmfs/tymly-etl-plugin/issues/852)) ([142ddf6](https://github.com/wmfs/tymly-etl-plugin/commit/142ddf60c67a2789fd0ad93a066b33101f41b853))
+
 ## [1.190.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.189.1...v1.190.0) (2026-11-03)
 
 ### Build system dependencies :hammer:
