@@ -1,3 +1,10 @@
+## [1.194.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.193.0...v1.194.0) (2026-11-09)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency glob to v14 ([#854](https://github.com/wmfs/tymly-etl-plugin/issues/854)) ([d5ec65b](https://github.com/wmfs/tymly-etl-plugin/commit/d5ec65b400aa2628adcb1aaf2c6cc91aabc1f64d))
+* **deps:** update dependency @wmfs/smithereens to v1.78.1 ([#856](https://github.com/wmfs/tymly-etl-plugin/issues/856)) ([cdbac63](https://github.com/wmfs/tymly-etl-plugin/commit/cdbac638ef3778225ace85b16c7b3c57c94cc1a3))
+
 ## [1.193.0](https://github.com/wmfs/tymly-etl-plugin/compare/v1.192.0...v1.193.0) (2026-11-06)
 
 ### Build system dependencies :hammer:
